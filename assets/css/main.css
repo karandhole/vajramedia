@@ -2493,6 +2493,7 @@ span {
   color: rgb(75, 75, 75);
   text-transform: capitalize;
   font-weight: 600;
+  text-align: center;
   font-size: 18px;
 }
 .breadcrumb-wrapper .page-heading .left-content .breadcrumb-items li a {
