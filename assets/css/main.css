@@ -5747,6 +5747,7 @@ span {
 .our-story-box .story-content p {
   font-size: 18px;
   font-weight: 500;
+ text-align: justify;
   max-width: 350px;
   color: rgb(75, 75, 75);
   margin-top: 30px;
@@ -5798,6 +5799,7 @@ span {
 }
 .our-story-box-2 .story-content.style-2 p {
   max-width: 283px;
+  text-align: justify;
 }
 .our-story-box-2 .story-content span {
   font-size: 18px;
