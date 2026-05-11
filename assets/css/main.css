@@ -2186,7 +2186,10 @@ span {
   width: 100%;
   z-index: 99999;
   transition: all 0.9s;
-  background-color: var(--white);
+    background: linear-gradient(180deg, rgba(227, 229, 235, 0.881) 0%, rgba(232, 234, 239, 0.875) 81.82%);
+    backdrop-filter: blur(15px);
+
+  /* background-color: var(--white); */
   -webkit-animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
   animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
