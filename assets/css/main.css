@@ -769,6 +769,12 @@ span {
   margin-inline-start: -12px;
   margin-top: -12px;
 }
+/* Hide custom cursor on mobile & tablets */
+@media (max-width: 991px) {
+  .mouseCursor {
+    display: none !important;
+  }
+}
 
 .cursor-inner {
   -webkit-margin-start: -3px;
