@@ -8802,7 +8802,8 @@ span {
 }
 
 .project-card-item-1 {
-  background: #FFFFFF;
+  background: linear-gradient(180deg, rgba(218, 226, 246, 0.748) 0%, rgba(226, 231, 243, 0.529) 81.82%);
+    backdrop-filter: blur(15px);
   transition: all 0.4s ease-in-out;
   border-radius: 16px;
   max-width: 625px;
