@@ -10469,7 +10469,7 @@ span {
 }
 @media (max-width: 1600px) {
   .service-section-4 .section-title {
-    margin-left: 400px;
+    margin-left: 0px;
   }
 }
 @media (max-width: 1399px) {
